@@ -1,0 +1,30 @@
+/* UNIVERSIAL SELECTOR */
+/* *{
+    color: red;
+    
+} */
+
+/* ELEMENT SELECTOR AND TYPE  */
+/* h1,p{
+    color: aqua;
+    background-color: wheat;
+} */
+
+/* ID SELECTOR */
+/* #heading1{
+    color: magenta;
+}
+#heading2{
+    color: blue;
+}
+#heading3{
+color: red;
+}
+#heading4{
+    color: fuchsia;
+} */
+
+/* CLASS SELECTOR */
+.myclass{
+    color: orangered;
+}
