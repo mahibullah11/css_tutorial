@@ -1,4 +1,4 @@
-h1{
+/* h1{
     color: yellow;
    
 }
@@ -12,4 +12,29 @@ button{
 }
 body{
     background-color:#BEB2CB;
+} */
+/* p:first-child{
+    color: red;
+} */
+
+/* PRACTICE */
+/* #box {
+    background-color: blue;
+    color: white;
+} */
+/* h1,h2,h3,h4{
+    color: red;
+}
+
+button{
+    background-color: green;
+} */
+/* TEXT ALIGN */
+
+p{
+ text-align:justify;
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
 }
